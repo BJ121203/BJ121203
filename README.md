@@ -1,4 +1,4 @@
-<h1 style="color: #F52A02;">Bryan Jiron</h1>
+<h1 style="color:#F52A02">Bryan Jiron</h1>
 <p>Estudiante de Ingeniería de sistemas en la Universidad Nacional de Ingeniería (UNI)</p>
 
 <h2>Cualidades y Objetivos</h2>
